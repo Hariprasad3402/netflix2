@@ -1,1 +1,11 @@
-# netflix2
+#Feature
+ - Browse(After Authentication)
+    -Header
+    -Main Movie
+        -Trailor in Background
+        -Title & Description
+        -Movie suggestions
+            -Movie List
+-Netflix GPT
+    -Search BAr
+    -Movie Suggestions
